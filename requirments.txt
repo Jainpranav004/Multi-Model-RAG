@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+pdfplumber
+camelot-py
+pymupdf
+matplotlib
+python-docx
+openai
+tenacity
+transformer
+fitz
+
