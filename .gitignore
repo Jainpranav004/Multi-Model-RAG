@@ -1,5 +1,4 @@
-/External libraries
-
 .env
+/External libraries
 data/sample
 table_extraction.ipynb
