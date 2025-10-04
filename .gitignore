@@ -2,3 +2,4 @@
 
 .env
 data/sample
+table_extraction.ipynb
